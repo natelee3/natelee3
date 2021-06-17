@@ -1,5 +1,8 @@
-### Hi there 👋
+[![Header](https://raw.githubusercontent.com/natelee3/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
 
+<a href="https://github.com/natelee3/natelee3">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natelee3&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
 <!--
 **natelee3/natelee3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
