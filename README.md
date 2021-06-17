@@ -18,8 +18,8 @@ I'm also a professional musician with a wide range of performance and teaching e
 <img alt="VS Code" title="VS Code" src="https://github.com/natelee3/natelee3/blob/main/visual-studio-code.svg" height="50">&nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="Git" title="Git" src="https://github.com/natelee3/natelee3/blob/main/git.svg" height="50">&nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="Google Chrome" title="Google Chrome" src="https://user-images.githubusercontent.com/1680157/87443745-47fd3c00-c5cc-11ea-878f-44f34572775e.png" height="50"><br><br>
-### 👨‍💻&nbsp;&nbsp;&nbsp;My Personal Projects
-<br>
+<!-- ### 👨‍💻&nbsp;&nbsp;&nbsp;My Personal Projects
+<br> -->
 
 📝&nbsp;&nbsp;**[DigitalCrafts Blog](http://github.com/natelee3/blog_posts)**
 
@@ -35,8 +35,8 @@ My Blog is where I share weekly updates about my journey into software developme
 
 <a href="https://www.linkedin.com/in/nate-lee-4062451b"/>LinkedIn</a>
 
-Email: nleepercussion@gmail.com
-Instagram: @nleepercussion
+Email: nleepercussion@gmail.com<br>
+Instagram: @nleepercussion<br>
 Twitter: @nleepercussion
 <!--
 **natelee3/natelee3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
