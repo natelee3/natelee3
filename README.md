@@ -1,4 +1,4 @@
-[![Header](https://github.com/natelee3/natelee3/readme-banner.png "Header")](https://some-url.dev/)
+![Header](https://github.com/natelee3/natelee3/blob/main/readme-banner.png "Header")
 
 ### 👋&nbsp;&nbsp;Hey!
 
