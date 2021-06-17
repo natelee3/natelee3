@@ -1,6 +1,5 @@
-<!-- [![Header](https://github.com/natelee3/natelee3/readme-banner.png "Header")](https://some-url.dev/)
- -->
- <img src="https://github.com/natelee3/natelee3/readme-banner.png">
+[![Header](https://github.com/natelee3/natelee3/readme-banner.png "Header")](https://some-url.dev/)
+
 ### 👋&nbsp;&nbsp;Hey!
 
 I'm **Nate Lee**, 
