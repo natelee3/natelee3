@@ -33,8 +33,7 @@ My Blog is where I share weekly updates about my journey into software developme
 
 ### 📫&nbsp;&nbsp;&nbsp;How To Reach Me
 
-<a href="https://www.linkedin.com/in/nate-lee-4062451b"/>LinkedIn</a>
-
+LinkedIn: <a href="https://www.linkedin.com/in/nate-lee-4062451b"/>Nate Lee</a>
 Email: nleepercussion@gmail.com<br>
 Instagram: @nleepercussion<br>
 Twitter: @nleepercussion
