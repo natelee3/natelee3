@@ -1,4 +1,4 @@
-<!-- [![Header](https://raw.githubusercontent.com/natelee3/natelee3/nate_lee(1).png "Header")](https://some-url.dev/)
+<!-- [![Header](https://github.com/natelee3/natelee3/github-banner.png "Header")](https://some-url.dev/)
  -->
 ### 👋&nbsp;&nbsp;Hey!
 
