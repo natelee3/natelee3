@@ -11,15 +11,17 @@ I'm also a professional musician with a wide range of performance and teaching e
 
 ### ⚒&nbsp;&nbsp;&nbsp;My Development Toolbelt
 <br>
-<img alt="React" title="React" src="https://github.com/natelee3/natelee3/blob/main/React-icon.svg" height="50">
-<img alt="JavaScript" title="JavaScript" src="https://github.com/natelee3/natelee3/blob/main/javascript.svg" height="50">
-<img alt="CSS" title="CSS" src="https://github.com/natelee3/natelee3/blob/main/css-3.svg" height="50">
-<img alt="HTML" title="HTML" src="https://github.com/natelee3/natelee3/blob/main/html-5.svg" height="50">
-<img alt="Python" title="Python" src="https://github.com/natelee3/natelee3/blob/main/python.svg" height="50">
-<img alt=" title=" title="Node.js" src="https://github.com/natelee3/natelee3/blob/main/nodejs.svg" height="50">
-<img alt="VS Code" title="VS Code" src="https://github.com/natelee3/natelee3/blob/main/visual-studio-code.svg" height="50">
-<img alt="Git" title="Git" src="https://github.com/natelee3/natelee3/blob/main/git.svg" height="50">
-<img alt="Google Chrome" title="Google Chrome" src="https://user-images.githubusercontent.com/1680157/87443745-47fd3c00-c5cc-11ea-878f-44f34572775e.png" height="50"><br><br>
+<p float="left>
+  <img alt="React" title="React" src="https://github.com/natelee3/natelee3/blob/main/React-icon.svg" height="50">&nbsp;
+  <img alt="JavaScript" title="JavaScript" src="https://github.com/natelee3/natelee3/blob/main/javascript.svg" height="50">&nbsp;
+  <img alt="CSS" title="CSS" src="https://github.com/natelee3/natelee3/blob/main/css-3.svg" height="50">&nbsp;
+  <img alt="HTML" title="HTML" src="https://github.com/natelee3/natelee3/blob/main/html-5.svg" height="50">&nbsp;
+  <img alt="Python" title="Python" src="https://github.com/natelee3/natelee3/blob/main/python.svg" height="50">&nbsp;
+  <img alt=" title=" title="Node.js" src="https://github.com/natelee3/natelee3/blob/main/nodejs.svg" height="50">&nbsp;
+  <img alt="VS Code" title="VS Code" src="https://github.com/natelee3/natelee3/blob/main/visual-studio-code.svg" height="50">&nbsp;
+  <img alt="Git" title="Git" src="https://github.com/natelee3/natelee3/blob/main/git.svg" height="50">&nbsp;
+  <img alt="Google Chrome" title="Google Chrome" src="https://user-images.githubusercontent.com/1680157/87443745-47fd3c00-c5cc-11ea-878f-44f34572775e.png" height="50">&nbsp;
+</p><br><br>
 
 
 📝&nbsp;&nbsp;**[DigitalCrafts Blog](http://github.com/natelee3/blog_posts)**
