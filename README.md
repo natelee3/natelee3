@@ -11,7 +11,7 @@ I'm also a professional musician with a wide range of performance and teaching e
 
 ### ⚒&nbsp;&nbsp;&nbsp;My Development Toolbelt
 <br>
-<img alt="React" title="React" src="https://github.com/natelee3/natelee3/blob/main/logo512.png" height="50">
+<img alt="React" title="React" src="https://github.com/natelee3/natelee3/blob/main/react-icon.svg" height="50">
 <img alt="JavaScript" title="JavaScript" src="https://github.com/natelee3/natelee3/blob/main/javascript.svg" height="50">
 <img alt="CSS" title="CSS" src="https://github.com/natelee3/natelee3/blob/main/css-3.svg" height="50">
 <img alt="HTML" title="HTML" src="https://github.com/natelee3/natelee3/blob/main/html-5.svg" height="50">
