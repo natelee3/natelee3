@@ -11,7 +11,9 @@ I'm also a professional musician with a wide range of performance and teaching e
 <!-- To know more, track me on **[Twitter](https://twitter.com/intent/follow?screen_name=obetomuniz)** or **[Newsletter](https://beto.im/newsletter)**.
 <br><br> -->
 ### ⚒&nbsp;&nbsp;&nbsp;My Development Toolbelt
-<br><img alt="JavaScript" title="JavaScript" src="https://github.com/natelee3/natelee3/blob/main/javascript.svg" height="50">&nbsp;&nbsp;&nbsp;&nbsp;
+<br>
+<img alt="React" title="React" src="https://github.com/natelee3/natelee3/blob/main/logo512.png" height="50">&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="JavaScript" title="JavaScript" src="https://github.com/natelee3/natelee3/blob/main/javascript.svg" height="50">&nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="CSS" title="CSS" src="https://github.com/natelee3/natelee3/blob/main/css-3.svg" height="50">&nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="HTML" title="HTML" src="https://github.com/natelee3/natelee3/blob/main/html-5.svg" height="50">&nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="Python" title="Python" src="https://github.com/natelee3/natelee3/blob/main/python.svg" height="50">&nbsp;&nbsp;&nbsp;&nbsp;
