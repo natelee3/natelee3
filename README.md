@@ -16,7 +16,7 @@ I'm also a professional musician with a wide range of performance and teaching e
   <img alt="CSS" title="CSS" src="https://github.com/natelee3/natelee3/blob/main/css-3.svg" height="50">&nbsp;
   <img alt="HTML" title="HTML" src="https://github.com/natelee3/natelee3/blob/main/html-5.svg" height="50">&nbsp;           
   <img alt="Python" title="Python" src="https://github.com/natelee3/natelee3/blob/main/python.svg" height="50">&nbsp;
-  <img alt="PostgreSQL title="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="40">&nbsp;
+  <img alt="PostgreSQL title="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="40">&nbsp;
 </p>
 <h5> Frameworks </h5>
 <p float="left">
