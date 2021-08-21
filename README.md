@@ -26,7 +26,7 @@ I'm also a professional musician with a wide range of performance and teaching e
 <p>
 <h5> Workflow </h5>
 <p float="left>                                                                                                          
-  <img alt="VS Code" title="VS Code" src="https://github.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" height="50">&nbsp;
+  <img alt="VS Code" title="VS Code" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" height="50">&nbsp;
   <img alt="Git" title="Git" src="https://github.com/natelee3/natelee3/blob/main/git.svg" height="50">&nbsp;
   <img alt="Google Chrome" title="Google Chrome" src="https://user-images.githubusercontent.com/1680157/87443745-47fd3c00-c5cc-11ea-878f-44f34572775e.png" height="50">&nbsp;
 </p><br>
