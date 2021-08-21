@@ -18,10 +18,11 @@ I'm also a professional musician with a wide range of performance and teaching e
   <img alt="Python" title="Python" src="https://github.com/natelee3/natelee3/blob/main/python.svg" height="50">&nbsp;
   <img alt="PostgreSQL title="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="40">&nbsp;
 </p>
-<h5> Frameworks </h5>
+<h5> Frameworks and Technologies</h5>
 <p float="left">
   <img alt="React" title="React" src="https://github.com/natelee3/natelee3/blob/main/React-icon.svg" height="50">&nbsp;
-  <img alt=" title=" title="Node.js" src="https://github.com/natelee3/natelee3/blob/main/nodejs.svg" height="50">&nbsp;
+  <img alt="Node.js" title="Node.js" src="https://github.com/natelee3/natelee3/blob/main/nodejs.svg" height="50">&nbsp;
+  <img alt="Bootstrap" title="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" height="50">&nbsp;
 <p>
 <h5> Workflow </h5>
 <p float="left>                                                                                                          
