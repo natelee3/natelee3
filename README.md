@@ -4,7 +4,7 @@
 
 I'm **Nate Lee**, 
 
-I live in Atlanta and am currently enrolled in DigitalCrafts full-time web development bootcamp. 
+I live in Atlanta and just graduated from the DigitalCrafts full-time web development bootcamp. I'm excited to find a new role where I can add value using my skills as a web developer!
 
 I'm also a professional musician with a wide range of performance and teaching experiences. I spent four years as the percussion instructor for Reinhardt University in Waleska, GA and I continue to perform and teach as my schedule allows.
 <br><br><br>
