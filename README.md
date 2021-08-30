@@ -12,24 +12,42 @@ I'm also a professional musician with a wide range of performance and teaching e
 ### ⚒&nbsp;&nbsp;&nbsp;My Development Toolbelt
 <h5> Languages </h5>
 <p float="left">
-  <img alt="JavaScript" title="JavaScript" src="https://github.com/natelee3/natelee3/blob/main/javascript.svg" height="50">&nbsp;
-  <img alt="CSS" title="CSS" src="https://github.com/natelee3/natelee3/blob/main/css-3.svg" height="50">&nbsp;
-  <img alt="HTML" title="HTML" src="https://github.com/natelee3/natelee3/blob/main/html-5.svg" height="50">&nbsp;           
-  <img alt="Python" title="Python" src="https://github.com/natelee3/natelee3/blob/main/python.svg" height="50">&nbsp;
-  <img alt="PostgreSQL title="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="40">&nbsp;
+  <a href="https://www.javascript.com">
+    <img alt="JavaScript" title="JavaScript" src="https://github.com/natelee3/natelee3/blob/main/javascript.svg" height="50">
+  </a>&nbsp;
+  <a href="https://www.css3.info/">
+    <img alt="CSS" title="CSS" src="https://github.com/natelee3/natelee3/blob/main/css-3.svg" height="50">
+  </a>&nbsp;
+  <a href="https://html.spec.whatwg.org">
+    <img alt="HTML" title="HTML" src="https://github.com/natelee3/natelee3/blob/main/html-5.svg" height="50">
+  </a>&nbsp;           
+  <a href="https://www.python.org">
+    <img alt="Python" title="Python" src="https://github.com/natelee3/natelee3/blob/main/python.svg" height="50">
+  </a>&nbsp;
+ <a href="https://www.postgresql.org"> 
+  <img alt="PostgreSQL title="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="40">
+</a>&nbsp;
 </p>
 <h5> Frameworks and Technologies</h5>
 <p float="left">
-  <img alt="React" title="React" src="https://github.com/natelee3/natelee3/blob/main/React-icon.svg" height="50">&nbsp;
-  <img alt="Node.js" title="Node.js" src="https://github.com/natelee3/natelee3/blob/main/nodejs.svg" height="50">&nbsp;
-  <img alt="Bootstrap" title="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" height="50">&nbsp;
-<p>
+  <a href="https://reactjs.org">
+    <img alt="React" title="React" src="https://github.com/natelee3/natelee3/blob/main/React-icon.svg" height="50">
+  </a>&nbsp;
+  <a href="https://nodejs.org/en">
+    <img alt="Node.js" title="Node.js" src="https://github.com/natelee3/natelee3/blob/main/nodejs.svg" height="50">
+  </a>&nbsp;
+  <a href="https://getbootstrap.com">
+    <img alt="Bootstrap" title="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" height="50">
+</a>&nbsp;
+</p>
 <h5> Workflow </h5>
 <p float="left>
-   <img alt="VS Code" title="VS Code" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" height="50">&nbsp;
-  <img alt="Git" title="Git" src="https://github.com/natelee3/natelee3/blob/main/git.svg" height="50">&nbsp;
-  <img alt="Google Chrome" title="Google Chrome" src="https://user-images.githubusercontent.com/1680157/87443745-47fd3c00-c5cc-11ea-878f-44f34572775e.png" height="50">&nbsp;
-   <img alt="VS Code" title="VS Code" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" height="50">&nbsp;
+   <a href="https://git-scm.com">
+     <img alt="Git" title="Git" src="https://github.com/natelee3/natelee3/blob/main/git.svg" height="50">
+   </a>&nbsp;
+   <a href="https://code.visualstudio.com">
+     <img alt="VS Code" title="VS Code" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" height="50">
+   </a>&nbsp;
 </p><br>
 
 
