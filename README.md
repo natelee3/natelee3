@@ -37,8 +37,8 @@ I'm also a professional musician with a wide range of performance and teaching e
     <img alt="Node.js" title="Node.js" src="https://github.com/natelee3/natelee3/blob/main/nodejs.svg" height="50">
   </a>&nbsp;
   <a href="https://getbootstrap.com">
-    <img alt="Bootstrap" title="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" height="50">
-</a>&nbsp;
+    <img alt="Bootstrap" title="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"      height="50">
+  </a>&nbsp;
 </p>
 <h5> Workflow </h5>
 <p float="left>
