@@ -41,7 +41,7 @@ I'm also a professional musician with a wide range of performance and teaching e
   </a>&nbsp;
 </p>
 <h5> Workflow </h5>
-<p float="left>
+<p float="left">
    <a href="https://git-scm.com">
      <img alt="Git" title="Git" src="https://github.com/natelee3/natelee3/blob/main/git.svg" height="50">
    </a>&nbsp;
