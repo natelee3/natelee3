@@ -64,6 +64,5 @@ Thanks for visiting!
 LinkedIn: <a href="https://www.linkedin.com/in/nate-lee3"/>Nate Lee</a><br>
 Email: nleepercussion@gmail.com<br>
 Instagram: @nleepercussion<br>
-Work GitHub: <a href="https://github.com/nlee-experient">Nlee-Experient</a>            
                                                          
 
