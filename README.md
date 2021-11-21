@@ -4,9 +4,11 @@
 
 I'm **Nate Lee**, 
 
-I live in Atlanta and just graduated from the DigitalCrafts full-time web development bootcamp. I'm excited to find a new role where I can add value using my skills as a web developer!
+I live in Atlanta and work as a Developer at Experient Group. The DigitalCrafts full-time web development bootcamp helped me transition from my previous role as a professional musician and college educator, and I'm having a blast contributing my skills to the great companies we work with, including Chick-fil-A and NCR. 
 
-I'm also a professional musician with a wide range of performance and teaching experiences. I spent four years as the percussion instructor for Reinhardt University in Waleska, GA and I continue to perform and teach as my schedule allows.
+In my free time, I love to cheer on my favorite teams (Dawgs, Falcons, Atlanta United, Hoosiers, Hawks, and Braves!), travel, cook, and spend time with my wife Stephanie and baby son John. 
+
+Thanks for visiting!
 <br><br><br>
 
 ### ⚒&nbsp;&nbsp;&nbsp;My Development Toolbelt
@@ -51,10 +53,6 @@ I'm also a professional musician with a wide range of performance and teaching e
 </p><br>
 
 
-📝&nbsp;&nbsp;**[DigitalCrafts Blog](http://github.com/natelee3/blog_posts)**
-
-My Blog is where I share weekly updates about my journey into software development. 
-
 
 ### ⚒&nbsp;&nbsp;&nbsp;My Most Used Languages
 <a href="https://github.com/natelee3/natelee3">
@@ -66,5 +64,6 @@ My Blog is where I share weekly updates about my journey into software developme
 LinkedIn: <a href="https://www.linkedin.com/in/nate-lee3"/>Nate Lee</a><br>
 Email: nleepercussion@gmail.com<br>
 Instagram: @nleepercussion<br>
-Twitter: @nleepercussion
+Work GitHub: <a href="https://github.com/nlee-experient">Nlee-Experient</a>            
+                                                         
 
