@@ -4,7 +4,7 @@
 
 I'm **Nate Lee**, 
 
-I live in Atlanta and work as a Developer at Experient Group. The DigitalCrafts full-time web development bootcamp helped me transition from my previous role as a professional musician and college educator, and I'm having a blast contributing my skills to the great companies we work with, including Chick-fil-A and NCR. 
+I live in Atlanta and work as a Software Engineer II at Experient Group. The DigitalCrafts full-time web development bootcamp helped me transition from my previous role as a professional musician and college educator, and I'm having a blast contributing my skills to the great companies we work with, including Chick-fil-A and NCR. 
 
 In my free time, I love to cheer on my favorite teams (Dawgs, Falcons, Atlanta United, Hoosiers, Hawks, and Braves!), travel, cook, and spend time with my wife Stephanie and baby son John. 
 
