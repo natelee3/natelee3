@@ -4,9 +4,13 @@
 
 I'm **Nate Lee**, 
 
-I live in Atlanta and work as a Software Engineer II at Experient Group. The DigitalCrafts full-time web development bootcamp helped me transition from my previous role as a professional musician and college educator, and I'm having a blast contributing my skills to the great companies we work with, including Chick-fil-A and NCR. 
+I live in Canton, GA and work as a software engineer at NCR Voyix. The DigitalCrafts full-time web development bootcamp helped me transition from my previous role as a professional musician and college educator. Experient Group gave me my start in October 2021 working with Chick-fil-A and NCR as a contractor, and I was thrilled to come on board full-time in April 2023.
 
-In my free time, I love to cheer on my favorite teams (Dawgs, Falcons, Atlanta United, Hoosiers, Hawks, and Braves!), travel, cook, and spend time with my wife Stephanie and baby son John. 
+My work at NCR Voyix has been focused on UI/UX - using React, some Angular, and even a little vanilla JS to develop engaging user experiences in back-office, customer-facing, and public-facing applications. I also build and manage CI/CD pipelines, set up automated testing, peform accessibility audits, and guide SEO strategy where appropriate.
+
+Most of what you'll find here are projects from my time at DigitalCrafts, but I'm happy to go into more detail about the many things I've done since then.
+
+In my free time, I love to cheer on my favorite teams (Dawgs, Falcons, Atlanta United, Hoosiers, Hawks, and Braves!), travel, cook, and spend time with my wife Stephanie and our two children, John and Amelia. 
 
 Thanks for visiting!
 <br><br><br>
